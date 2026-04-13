@@ -1,0 +1,5 @@
+s=input("Enter a letter:")
+ s in ('a','e','i','o','u','A','E','I','O','U'):
+    print("Vowel")
+else:
+    print("not a Vowel")
